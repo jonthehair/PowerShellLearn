@@ -43,4 +43,4 @@ foreach($disk in $disks)
 }
 
 
-write-host "dave was here."
+
